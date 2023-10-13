@@ -5,7 +5,8 @@
 ## What is Hacktoberfest?
 A month-long celebration from October 1st - 31st to get people involved in [Open Source](https://github.com/open-source).
 
-![gdsc](https://github.com/Google-DSC-DMCE/TriviaApp-HacktoberFest-2023/assets/101982807/378176a1-da91-46e8-b4d0-fb56ca2c96da)
+![HacktoberFest2023](https://github.com/Google-DSC-DMCE/TriviaApp-HacktoberFest-2023/assets/98736611/c2654a08-a5ef-4a0f-848c-6a037e28e2fa)
+
 
 ## Specifically for Hacktoberfest:
 
