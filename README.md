@@ -1,4 +1,4 @@
-# ImageVoiceEditor-HacktoberFest-2023
+# Trivia App-HacktoberFest-2023
 
 # Hacktoberfest23
 
